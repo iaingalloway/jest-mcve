@@ -1,0 +1,9 @@
+{
+  "name": "jest-mvce-devcontainer",
+  "image": "ghcr.io/iaingalloway/devcontainers/javascript:1.1",
+  "runArgs": [
+    "--name",
+    "jest-mvce-devcontainer",
+    "--network=host"
+  ]
+}
